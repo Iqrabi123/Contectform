@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.contactform {
+  text-align: center;
+}
+.contactform h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: 33px;
+  font-weight: bold;
+}
+.contactform p {
+  font-size: 15px;
+  margin-left: 161px;
+  margin-right: 161px;
+}
+.fa-regular,
+.far {
+  color: red;
+  margin-top: 103px;
+  font-size: 39px;
+}
+.contactform h2 {
+  margin-top: 48px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.contactform a {
+  color: blue;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 28px;
+}
+.para p {
+  margin-top: 112px;
+  margin-left: 218px;
+  margin-right: 218px;
+  font-size: 8px;
+  text-align: left;
+  border: 1px;
+}
+.fa-solid,
+.fas {
+  color: red;
+}
+h4 {
+    margin-top: 24px;
+    color: red;
+    margin-left: -375px;
+}
